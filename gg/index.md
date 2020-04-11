@@ -2,7 +2,7 @@
 
 # Client Binary
 
-[latest x86_64](./ggc_x86_64-2020_04_11)
+[latest x86_64](./ggc-linux-x86_64-20200411)
 
 # Controls
 
