@@ -1,11 +1,11 @@
 # Gorilla Game
 
-# Client Binary
+## Client Binary
 
-- [Linux](./ggc-linux)
-- [MacOS](./ggc-darwin)
-- [Windows](./ggc-windows.exe)
+[Linux](./ggc-linux)
+[MacOS](./ggc-darwin)
+[Windows](./ggc-windows.exe)
 
-# Controls
+## Controls
 
 `Enter` key and `Space` key
