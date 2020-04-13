@@ -2,9 +2,9 @@
 
 # Client Binary
 
-[Linux](./ggc-linux)
-[MacOS](./ggc-darwin)
-[Windows](./ggc-windows.exe)
+- [Linux](./ggc-linux)
+- [MacOS](./ggc-darwin)
+- [Windows](./ggc-windows.exe)
 
 # Controls
 
