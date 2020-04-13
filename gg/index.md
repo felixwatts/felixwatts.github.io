@@ -2,7 +2,9 @@
 
 # Client Binary
 
-[ggc-linux-x86_64-20200411](./ggc-linux-x86_64-20200411)
+[Linux](./ggc-linux)
+[MacOS](./ggc-darwin)
+[Windows](./ggc-windows.exe)
 
 # Controls
 
