@@ -1,0 +1,50 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <script>
+            function openAccordion(id) {
+            var x = document.getElementById(id);
+                if (x.className.indexOf("w3-show") == -1) {
+                    x.className += " w3-show";
+                } else {
+                    x.className = x.className.replace(" w3-show", "");
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <div class="w3-panel">
+            <h1>Coop Tuna Chunks in Water</h1>
+            <div class="w3-panel">
+                <p>Manufactured in Mauritius by PTM</p>
+                <div>About this product</div>
+                <div>
+                    <span class="w3-tag">FSC Certified</span>
+                </div>
+                <div>More from the supply chain...</div>
+                <div>         
+                    <span class="w3-tag">FSC Certified</span>       
+                    <span class="w3-tag">Purse Seine Fishing</span>
+                    <a onclick="openAccordion('accordion1')" class="w3-text-blue">explore...</a>
+                    <div  class="w3-panel w3-hide" id="accordion1">
+                        <p>Coop Tuna Chunks in Water is manufactured from the following components</p>
+                        <div>
+                            <h1>Skipjack Tuna</h1>
+                            <p>Manufactured in Indian Ocean by Echebastar</p>
+                            <div class="w3-panel">
+                                <div>About the manufacturer</div>
+                                <div>                
+                                    <span class="w3-tag">FSC Certified</span>
+                                </div>
+                                <div>About the manufacturing process</div>
+                                <div>                
+                                    <span class="w3-tag">Purse Seine Fishing</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
