@@ -18,7 +18,7 @@ It only has five ingredients, and that's counting salt and water! So, here's my 
 
 ### Ingredients
 
-- 1 cup red lentils
+- 1 cup dry red lentils
 - 3-4 large cloves of garlic
 - ~6 tblsp cooking oil
 - 2-5 cups of water, there's quite a lot of leeway with the amount of water depnding on how runny you like your dhal. I like mine runny.
