@@ -8,7 +8,7 @@ Now, I'm going to give you a recipe. It's one of my favourites because its
 
 - Cheap as hell
 - Simple
-- Nutrious
+- Nutritious
 - and Delicous!
 - (also vegan) 
 
