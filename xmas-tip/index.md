@@ -4,7 +4,7 @@ I tried to find a christmas theme for this but I couldn't think of one so.. deal
 
 Firstly, [how _not_ to gift sustainably](https://www.walmart.com/ip/Crystal-Art-Collect-Moments-Not-Things-Wrapped-Canvas-Print-Wall-Art-Decor/750547279), thanks to Walmart, who knew they had such a delicious sense of irony!
 
-Now, I'm going to give you a recipe. It's one of my favourites becuase its
+Now, I'm going to give you a recipe. It's one of my favourites because its
 
 - Cheap as hell
 - Simple
